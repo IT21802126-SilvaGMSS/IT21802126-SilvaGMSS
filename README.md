@@ -1,4 +1,4 @@
-https://media.licdn.com/dms/image/D5616AQEteCoR-Iqbyw/profile-displaybackgroundimage-shrink_350_1400/0/1704091522417?e=1710374400&v=beta&t=IOgxlVYD7WQCdEfMOJNTBn8lc-k81fYy_Prt-jSuj0o
+![1704091522417](https://github.com/Sandithya21/Sandithya21/assets/91774321/27d94524-9de3-430b-856d-ddb6b32e0d08)
 
 <h1 align="center">Hi 👋, I'm Sandithya Sasmini</h1>
 <h3 align="center">I'm a passionate Full Stack Developer from Sri Lanka</h3>
