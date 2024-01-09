@@ -1,3 +1,5 @@
+https://media.licdn.com/dms/image/D5616AQEteCoR-Iqbyw/profile-displaybackgroundimage-shrink_350_1400/0/1704091522417?e=1710374400&v=beta&t=IOgxlVYD7WQCdEfMOJNTBn8lc-k81fYy_Prt-jSuj0o
+
 <h1 align="center">Hi 👋, I'm Sandithya Sasmini</h1>
 <h3 align="center">I'm a passionate Full Stack Developer from Sri Lanka</h3>
 
