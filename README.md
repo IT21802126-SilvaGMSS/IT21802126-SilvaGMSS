@@ -1,4 +1,4 @@
-![1704091522417](https://github.com/Sandithya21/Sandithya21/assets/91774321/27d94524-9de3-430b-856d-ddb6b32e0d08)
+![1704091522417](https://github.com/IT21802126-SilvaGMSS/IT21802126-SilvaGMSS/assets/91774321/27d94524-9de3-430b-856d-ddb6b32e0d08)
 
 <h1 align="center">Hi 👋, I'm Sandithya Sasmini</h1>
 <h3 align="center">I'm a passionate Full Stack Developer from Sri Lanka</h3>
