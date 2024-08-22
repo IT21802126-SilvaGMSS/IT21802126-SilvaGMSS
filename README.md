@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=IT21802126-SilvaGMSS" alt="IT21802126-SilvaGMSS" /></a> </p>
 
-- 🌱 I’m currently learning **JAVA, MERN**
+- 🌱 I’m currently learning **Flutter and Next.js**
 
 - 📫 How to reach me **Email : sandithyas@gmail.com | LinkedIn : https://www.linkedin.com/in/sandithyasasmini/**
 
