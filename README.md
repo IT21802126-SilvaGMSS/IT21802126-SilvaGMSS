@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=it21802126-silvagmss" alt="it21802126-silvagmss" /></a> </p>
 
-- 🌱 I’m currently learning **Next.js and Flutter**
+- 🌱 I’m currently learning **.NET**
 
 - 📫 How to reach me **sandithyas@gmail.com**
 
